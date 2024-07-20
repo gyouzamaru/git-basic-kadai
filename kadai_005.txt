@@ -33,3 +33,7 @@ PS C:\Users\ami12\Desktop\kadai\git_challenge>
 65b187c (HEAD -> main) 日本語訳を追記
 a213e08 hello_world.txtを追加
 PS C:\Users\ami12\Desktop\kadai\git_challenge> 
+
+PS C:\Users\ami12\Desktop\kadai\git_challenge> git log --oneline
+65b187c (HEAD -> main) 日本語訳を追記
+a213e08 hello_world.txtを追加
