@@ -1,0 +1,35 @@
+PS C:\Users\ami12> cd C:\Users\ami12\Desktop\kadai
+PS C:\Users\ami12\Desktop\kadai> mkdir git_challenge
+
+
+    ディレクトリ: C:\Users\ami12\Deskto
+    p\kadai
+
+
+Mode                 LastWriteTime Leng
+                                     th
+----                 ------------- ----
+d-----        2024/07/20     18:13
+
+
+PS C:\Users\ami12\Desktop\kadai> cd git_challenge
+PS C:\Users\ami12\Desktop\kadai\git_challenge> git init
+Initialized empty Git repository in C:/Users/ami12/Desktop/kadai/git_challenge/.git/
+PS C:\Users\ami12\Desktop\kadai\git_challenge>
+
+PS C:\Users\ami12\Desktop\kadai> cd git_challenge
+PS C:\Users\ami12\Desktop\kadai\git_challenge> git init
+Initialized empty Git repository in C:/Users/ami12/Desktop/kadai/git_challenge/.git/
+PS C:\Users\ami12\Desktop\kadai\git_challenge> git add hello_world.txt
+PS C:\Users\ami12\Desktop\kadai\git_challenge> git commit -m "hello_world.txtを追加”
+[main (root-commit) a213e08] hello_world.txtを追加
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS C:\Users\ami12\Desktop\kadai\git_challenge> git add hello_world.txt
+PS C:\Users\ami12\Desktop\kadai\git_challenge> git commit -m "日本語訳を追記”
+[main 65b187c] 日本語訳を追記
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\ami12\Desktop\kadai\git_challenge>
+65b187c (HEAD -> main) 日本語訳を追記
+a213e08 hello_world.txtを追加
+PS C:\Users\ami12\Desktop\kadai\git_challenge> 
